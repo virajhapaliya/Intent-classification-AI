@@ -1,0 +1,7 @@
+Instructions
+1. you have to set .env file in "professors" folder where you have just enter django-secret file
+2. you can enable the postgres sql from the db, for development purpose I have set th dbsqlite3
+
+
+Limitation
+1. Right now AI will work on certain query of the professors only as due to limited time it was not possible to cover all the scenario.

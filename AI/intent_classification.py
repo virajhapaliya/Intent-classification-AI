@@ -162,6 +162,6 @@ if __name__ == "__main__":
         response = llm_chain.invoke(user_query)
         print(response)
         ai_response = check_api_body_requirements(response)
-        print(f"AI : {ai_response}")
+        # print(f"AI : {ai_response}")
         print('------------------------------------------')
 
